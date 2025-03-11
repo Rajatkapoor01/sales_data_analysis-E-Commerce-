@@ -27,9 +27,16 @@ This project analyzes an e-commerce sales dataset using SQL and Power BI to deri
 
 The following screenshots represent the Power BI sales dashboard, which provides an insightful analysis of e-commerce sales:  
 
-1. **[Screenshot1](https://github.com/Rajatkapoor01/sales_data_analysis-E-Commerce-/blob/main/Screenshot1.png)** – Overview of total sales, revenue, and key performance indicators.  
-2. **[Screenshot2](https://github.com/Rajatkapoor01/sales_data_analysis-E-Commerce-/blob/main/Screenshot2.png)** – Profitability analysis across different product categories and regions.  
-3. **[Screenshot3](https://github.com/Rajatkapoor01/sales_data_analysis-E-Commerce-/blob/main/Screenshot3.png)** – Visual representation of sales trends, top-performing products, and regional breakdowns.  
+
+### 1. Overview of Total Sales, Revenue, and Key Performance Indicators  
+![Screenshot1](https://github.com/Rajatkapoor01/sales_data_analysis-E-Commerce-/blob/main/Screenshot1.png)  
+
+### 2. Profitability Analysis Across Different Product Categories and Regions  
+![Screenshot2](https://github.com/Rajatkapoor01/sales_data_analysis-E-Commerce-/blob/main/Screenshot2.png)  
+
+### 3. Sales Trends, Top-Performing Products, and Regional Breakdowns  
+![Screenshot3](https://github.com/Rajatkapoor01/sales_data_analysis-E-Commerce-/blob/main/Screenshot3.png)  
+
 
 These dashboards help in understanding 
 - revenue patterns
